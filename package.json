@@ -1,0 +1,16 @@
+{
+  "name": "products-drawer",
+  "version": "0.0.4",
+  "author": "Ehsan Karimi <esnkrimi@gmail.com>",
+  "keywords": [
+    "products board",
+    "shopping"  
+  ],
+  "peerDependencies": {
+    "@angular/common": "^14.0.0",
+    "@angular/core": "^14.0.0"
+  },
+  "dependencies": {
+    "tslib": "^2.3.0"
+  }
+}

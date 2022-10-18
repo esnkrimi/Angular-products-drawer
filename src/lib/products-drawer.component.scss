@@ -1,0 +1,86 @@
+img {
+    width: 100%
+}
+
+.row>div {
+    cursor: pointer;
+    padding: 1%;
+    border: solid 1px #ececec;
+    margin: 0.5%;
+}
+
+.row>div:hover {
+    opacity: 96%;
+}
+
+.zoom {
+    transition: transform 0.5s;
+}
+
+.zoom:hover {
+    transform: scale(1.05);
+}
+
+.small {
+    padding: 2%;
+    text-transform: capitalize;
+    border-bottom: solid 1px #ececec;
+    color: #616161;
+}
+
+.text-black {
+    color: #222222 !important;
+}
+
+.wishlist {
+    position: absolute;
+    right: 1%;
+    top: 1%;
+}
+
+.off {
+    position: absolute;
+    left: 1%;
+    top: 1%;
+    border-radius: 50%;
+    padding: 2%;
+    color: white;
+    background-color: rgb(241, 96, 12);
+}
+
+.high {
+    background-color: rgb(16, 179, 78) !important;
+}
+
+.oldPrice {
+    text-decoration: line-through;
+}
+
+.row {
+    width: 100%;
+    animation: cross 1s forwards;
+    opacity: 50%;
+    z-index: 9;
+}
+
+@keyframes cross {
+    from {
+        opacity: 0%;
+    }
+
+    to {
+        opacity: 100%;
+    }
+}
+
+.borderOff {
+    border: solid 6px #049410;
+    border-radius: 1%;
+}
+
+.fw-bold {
+    font-weight: bold;
+}
+.relative{
+    position: relative;
+}
