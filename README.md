@@ -1,4 +1,4 @@
-Products Boards that will get data and show products on a luxury format
+Products Boards that will get data and show products in a luxury format
 
 ----------------------------DEMO
 
