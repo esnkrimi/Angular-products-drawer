@@ -2,9 +2,9 @@ Products Boards that will get data and show products on a luxury format
 
 ----------------------------DEMO
 
-        https://products-drawer.stackblitz.io
+https://products-drawer.stackblitz.io
 
-        https://stackblitz.com/edit/products-drawer
+https://stackblitz.com/edit/products-drawer
 
 For example :
 
